@@ -1,0 +1,6 @@
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\MethodsLibrary\bin\Debug\MethodsLibrary.dll
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\MethodsLibrary\bin\Debug\MethodsLibrary.pdb
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\MethodsLibrary\obj\Debug\MethodsLibrary.csproj.AssemblyReference.cache
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\MethodsLibrary\obj\Debug\MethodsLibrary.csproj.CoreCompileInputs.cache
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\MethodsLibrary\obj\Debug\MethodsLibrary.dll
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\MethodsLibrary\obj\Debug\MethodsLibrary.pdb

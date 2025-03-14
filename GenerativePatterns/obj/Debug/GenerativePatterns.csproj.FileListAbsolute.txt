@@ -1,0 +1,10 @@
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\bin\Debug\GenerativePatterns.exe.config
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\bin\Debug\GenerativePatterns.exe
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\bin\Debug\GenerativePatterns.pdb
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\obj\Debug\GenerativePatterns.csproj.AssemblyReference.cache
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\obj\Debug\GenerativePatterns.csproj.CoreCompileInputs.cache
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\obj\Debug\GenerativePatterns.exe
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\obj\Debug\GenerativePatterns.pdb
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\bin\Debug\MethodsLibrary.dll
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\bin\Debug\MethodsLibrary.pdb
+D:\study\Конструювання програмного забезпечення\Lab2\Lab2\GenerativePatterns\obj\Debug\Generati.D7A35B71.Up2Date

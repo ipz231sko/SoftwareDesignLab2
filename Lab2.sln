@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerativePatterns", "GenerativePatterns\GenerativePatterns.csproj", "{1C1E34A5-7213-417F-A6B7-1A6CC997714C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsLibrary", "MethodsLibrary\MethodsLibrary.csproj", "{8D0FA72F-BE80-41E0-BF65-50F9C8E145D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1E34A5-7213-417F-A6B7-1A6CC997714C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1E34A5-7213-417F-A6B7-1A6CC997714C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1E34A5-7213-417F-A6B7-1A6CC997714C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1E34A5-7213-417F-A6B7-1A6CC997714C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0FA72F-BE80-41E0-BF65-50F9C8E145D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0FA72F-BE80-41E0-BF65-50F9C8E145D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0FA72F-BE80-41E0-BF65-50F9C8E145D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0FA72F-BE80-41E0-BF65-50F9C8E145D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4C1E4D-12E3-4620-AFA7-A366F64B2AAC}
+	EndGlobalSection
+EndGlobal
